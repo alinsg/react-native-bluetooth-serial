@@ -3,6 +3,7 @@
 - Resolved [The SDK Build Tools revision (23.0.1) is too low ... #72](https://github.com/rusel1989/react-native-bluetooth-serial/issues/72)
 - Resolved [error: method does not override ... #67](https://github.com/rusel1989/react-native-bluetooth-serial/issues/67) 
 - Resolved Example not working [#21](https://github.com/rusel1989/react-native-bluetooth-serial/issues/21) [#45](https://github.com/rusel1989/react-native-bluetooth-serial/issues/45)
+- Upgrade sdk version to 28
 
 
 ## React Native Bluetooth Serial
